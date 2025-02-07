@@ -22,39 +22,11 @@ The **Marketing Tool** is a Streamlit-based web application that generates age-s
 - **Dotenv** – For managing API keys securely  
 
 ---
-
-## **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/your-github-username/Marketing-Tool.git
 cd Marketing-Tool
 ```
-
-### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
-```sh
-python -m venv venv
-source venv/bin/activate  # For Mac/Linux
-venv\Scripts\activate     # For Windows
-```
-
-### **3️⃣ Install Dependencies**
-```sh
-pip install -r requirements.txt
-```
-
-### **4️⃣ Set Up API Keys**
-- Create a `.env` file in the project directory.
-- Add your OpenAI API Key:
-  ```sh
-  OPENAI_API_KEY="your-api-key-here"
-  ```
-
-### **5️⃣ Run the Application**
-```sh
-streamlit run app.py
-```
-
----
 
 ## **Usage**
 1. **Enter text** in the input box.
@@ -76,16 +48,6 @@ streamlit run app.py
 
 ---
 
-## **Contributing**
-🚀 **Contributions are welcome!** If you find a bug or want to add features:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Commit changes: `git commit -m "Added new feature"`
-4. Push to your branch: `git push origin feature-branch`
-5. Open a **Pull Request**.
-
----
-
 ## **License**
 📜 This project is licensed under the **MIT License**.
 
@@ -94,12 +56,4 @@ streamlit run app.py
 ## **Contact**
 👤 **Created by**: Trevor Alpert  
 📧 **Email**: trevoralpert1@gmail.com  
-🔗 **GitHub**: [your-github-profile](https://github.com/your-github-username)  
-
----
-
-### ✅ **Next Steps**
-- If you have any additional features you’d like to document, let me know! 🚀  
-- Feel free to replace **your-github-username** with your actual GitHub profile.  
-
-Would you like me to format this file for you in Markdown and push it to your repo? 😊
+🔗 **GitHub**: [trevoralpert](https://github.com/trevoralpert)  
